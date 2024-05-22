@@ -1,0 +1,16 @@
+export default {
+  SplashScreen: 'SplashScreen',
+  LoginScreen: 'LoginScreen',
+  SignUpScreen: 'SignUpScreen',
+  OtpScreen: 'OtpScreen',
+  SportScreen: 'SportScreen',
+  TransferScreen: 'TransferScreen',
+  StatisticsScreen: 'StatisticsScreen',
+  NewsScreen: 'NewsScreen',
+  LiveScreen: 'LiveScreen',
+  CompetitionScreen: 'CompetitionScreen',
+  NewsDetailScreen: 'NewsDetailScreen',
+  PlayerScreen: 'PlayerScreen',
+  TeamScreen: 'TeamScreen',
+  StreamingScreen: 'StreamingScreen',
+};

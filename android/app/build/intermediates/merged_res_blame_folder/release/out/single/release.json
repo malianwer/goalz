@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_clublogo.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_clublogo.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.golz.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_coverimagenew.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_coverimagenew.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.golz.app-res-29:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_media4.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_media4.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_countrylogo.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_countrylogo.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.golz.app-res-29:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_shareicon.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_shareicon.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_trendingview.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_trendingview.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.golz.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_rectangle2.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_rectangle2.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_clublogo2.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_clublogo2.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_trendyimage3.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_trendyimage3.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_messi1.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_messi1.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.golz.app-res-29:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_boardcast2.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_boardcast2.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.golz.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_media1.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_media1.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.golz.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.golz.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_listicon.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_listicon.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.golz.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_boardcast1.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_boardcast1.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_google.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_google.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_club2.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_club2.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_rectangle3.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_rectangle3.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_trendyimage2.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_trendyimage2.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_messi2.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_messi2.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.golz.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_media5.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_media5.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_clublogo3.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_clublogo3.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_trendyimage.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_trendyimage.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_club3.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_club3.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.golz.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_media2.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_media2.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_wishlisticon.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_wishlisticon.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_boardcast.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_boardcast.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_trendyimage1.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_trendyimage1.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_banner.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_banner.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_media3.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_media3.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_card.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_card.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_facebook.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_facebook.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.golz.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.golz.app-res-29:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_club4.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_club4.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_logo.jpeg.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_logo.jpeg"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_avatar.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_avatar.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_leagueslogo.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_leagueslogo.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.golz.app-main-35:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_clublogo1.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_clublogo1.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_whistle.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_whistle.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_arrowright.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_arrowright.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.golz.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_club1.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_club1.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_media.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_media.png"
+    },
+    {
+        "merged": "com.golz.app-merged_res-34:/drawable-mdpi_src_assets_images_boardcast3.png.flat",
+        "source": "com.golz.app-res-29:/drawable-mdpi/src_assets_images_boardcast3.png"
+    }
+]
